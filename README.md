@@ -10,7 +10,7 @@ Run a simple calculator
 * Server side history of calculations
 * Display history of calculations
 * Select previous calculations
-* Graph calculator
+* Print or download history
 
 In the project directory, you can run:
 
