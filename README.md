@@ -6,11 +6,12 @@ Run a simple calculator
 
 ### Scope
 
-* Scientific
+* Calculator with more features
 * Server side history of calculations
 * Display history of calculations
 * Select previous calculations
 * Print or download history
+* Scientific
 
 In the project directory, you can run:
 
